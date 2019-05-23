@@ -1,0 +1,27 @@
+{
+    "editor.tabSize": 2,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[yaml]": {
+        "editor.insertSpaces": true,
+         "editor.tabSize": 2,
+         "editor.detectIndentation": false,
+      },
+      "yaml.customTags": [
+        "!Base64 mapping",
+        "!Cidr sequence",
+        "!FindInMap sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!Join sequence",
+        "!Ref", 
+        "!Select sequence",
+        "!Split sequence",
+        "!Sub",
+        "!Transform mapping",
+        "!Not sequence",
+        "!Equals sequence"
+    ]
+    
+}
